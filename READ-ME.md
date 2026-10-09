@@ -1,7 +1,9 @@
 # 🏙️ AI-Based Automated Urban Parcel Mapping & 3D Cadastral Feature Extraction System
 
 **An AI-powered geospatial platform for automated urban parcel mapping, 3D cadastral visualization, and land-encroachment analysis.**
+
 **https://sih-26012-project.vercel.app/**
+
 **https://youtu.be/-MdPfCdn7RY?si=oKIx_2dBd--7QgP4**
 
 ## 📌 Overview
