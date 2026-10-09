@@ -2,11 +2,6 @@
 
 **An AI-powered geospatial platform for automated urban parcel mapping, 3D cadastral visualization, and land-encroachment analysis.**
 
-[![Project](https://img.shields.io/badge/Project-Smart%20India%20Hackathon-blue)](https://github.com/kkusumk09/SIH26012_Project)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
-[![Next.js](https://img.shields.io/badge/Frontend-Next.js-black)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)](https://fastapi.tiangolo.com/)
-
 ## 📌 Overview
 
 The **AI-Based Automated Urban Parcel Mapping and 3D Cadastral Feature Extraction System** is a geospatial technology project developed to support more efficient urban land mapping and cadastral analysis.
@@ -95,7 +90,6 @@ SIH26012_Project/
 ├── frontend/             # Next.js frontend and 3D interface
 ├── docker-compose.yml    # Multi-service configuration
 ├── QUICKSTART.md         # Detailed local setup instructions
-├── CLAUDE.md             # Project-specific development guidance
 └── README.md             # Project documentation
 ```
 
@@ -162,7 +156,6 @@ Contributions and suggestions are welcome.
 ## 👥 Project Information
 
 - **Project:** AI-Based Automated Urban Parcel Mapping and 3D Cadastral Feature Extraction System
-- **Repository:** [kkusumk09/SIH26012_Project](https://github.com/kkusumk09/SIH26012_Project)
 - **Project Category:** AI, GIS, Geospatial Analysis, and 3D Cadastral Mapping
 
 ## 📄 License
